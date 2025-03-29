@@ -1,4 +1,5 @@
-Game-Theoretic Consensus Deep Learning for Adaptive Flood Prediction in Digital Twin Environments
+This project explores Game-Theoretic Consensus Deep Learning for Adaptive Flood Prediction in Digital Twin Environments. For confidentiality and sensitivity reasons, the implementation does not include access to the original flood prediction dataset used in the associated research.
+
 The framework includes multiple deep learning models, leverages game-theoretic concepts like Shapley Value for model importance, and uses a two-level pruning strategy for efficient inference.
 
 The project is organized into the following files:
